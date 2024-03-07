@@ -10,6 +10,10 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+/[Aa]ssets/Character Movement Fundamentals/
+/[Aa]ssets/ConsolePro/
+/[Aa]ssets/Plugins/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
