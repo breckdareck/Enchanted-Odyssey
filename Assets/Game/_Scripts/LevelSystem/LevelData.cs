@@ -5,6 +5,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "New Level Data", menuName = "Custom/LevelData")]
 public class LevelData : ScriptableObject
 {
+    public SerializableGuid Id;
     public int expToLevel = 100;
     public int currentExp = 0;
     public int currentLevel = 1;
