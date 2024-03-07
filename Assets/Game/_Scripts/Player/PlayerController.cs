@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private List<Job> _jobs;
-    private PlayerData _playerData;
+    [SerializeField] private List<Job> _jobs;
+    [SerializeField] private PlayerData _playerData;
 }

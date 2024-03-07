@@ -6,6 +6,7 @@ using UnityEngine;
 [Serializable]
 public class Job
 {
+    public SerializableGuid Id;
     public JobData data;
 
     public Job(JobData data)
